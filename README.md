@@ -179,6 +179,10 @@ TRAX LRS provides a few convenient commands to manage your application directly 
 - `php artisan client:delete <username>`: delete an API client.
 
 
+## Plugins
+
+- [Trax Sync:](https://github.com/trax-project/trax-sync) a plugin to push your statements to external repositories (LRS or ElasticSearch) 
+
 
 ## Performance optimization
 

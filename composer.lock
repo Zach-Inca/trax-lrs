@@ -1,7 +1,7 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
     "content-hash": "b6866407a3daa5a98342ed31874fc2ef",
@@ -3189,16 +3189,16 @@
         },
         {
             "name": "trax/framework",
-            "version": "1.0.0-rc.5",
+            "version": "1.0.0-rc.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/trax-project/trax-framework.git",
-                "reference": "4ceaee43dae383538dd871268e5d1f869e03ade1"
+                "reference": "5f512e1ff6f9f25181c6a4f260d5348e37e44375"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/trax-project/trax-framework/zipball/4ceaee43dae383538dd871268e5d1f869e03ade1",
-                "reference": "4ceaee43dae383538dd871268e5d1f869e03ade1",
+                "url": "https://api.github.com/repos/trax-project/trax-framework/zipball/5f512e1ff6f9f25181c6a4f260d5348e37e44375",
+                "reference": "5f512e1ff6f9f25181c6a4f260d5348e37e44375",
                 "shasum": ""
             },
             "type": "library",
@@ -3223,7 +3223,7 @@
                 }
             ],
             "description": "Common layout for Trax applications",
-            "time": "2019-07-01T21:17:50+00:00"
+            "time": "2019-12-02T13:43:02+00:00"
         },
         {
             "name": "trax/xapi",
